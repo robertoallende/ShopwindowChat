@@ -3,7 +3,7 @@ A Chat app implemented in Native Android stack and Firebase. This project is was
 
 ## Features
 
-* Realtime chat synchronization with Firebase database.
+* Realtime chat & synchronization with Firebase database.
 
 * Material Design.
 
