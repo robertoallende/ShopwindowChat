@@ -7,8 +7,6 @@ A Chat app implemented in Native Android stack and Firebase. This project is was
 
 * Material Design.
 
-* Testing.
-
 * Compatible with Android 4.1.x upto Android 7.0
 
 * Tested in Android 4.1.1, 5.0 and 6.0.
