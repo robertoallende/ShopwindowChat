@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073663351509",
+    "firebase_url": "https://shopify-chat.firebaseio.com",
+    "project_id": "shopify-chat",
+    "storage_bucket": "shopify-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073663351509:android:8e1fb586db42d3de",
+        "android_client_info": {
+          "package_name": "com.x2go.shopwindowchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073663351509-99nrmlsmiiibb86cgvnmujs6d4edea7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.x2go.shopwindowchat",
+            "certificate_hash": "6AC9C68FBFD40289F1D0B220FEE28588FCA1DA2C"
+          }
+        },
+        {
+          "client_id": "1073663351509-ik9pjrfv87ovqbrelp2ckrluqccj1lrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy7IBlXyZc76dyKufH8LK7z74jI6zQTMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073663351509-ik9pjrfv87ovqbrelp2ckrluqccj1lrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

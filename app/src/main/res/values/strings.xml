@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Shopwindow Chat</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="invitation_message">Please join me for a chat</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invitation_title">Chat Invite</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
 </resources>

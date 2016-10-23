@@ -81,3 +81,5 @@ dependencies {
     compile "com.birbit:android-priority-jobqueue:$rootProject.androidPriorityJobQueue"
     compile "org.greenrobot:eventbus:$rootProject.greenrobotEventbus"
 }
+
+apply plugin: 'com.google.gms.google-services'
